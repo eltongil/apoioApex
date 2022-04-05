@@ -1,3 +1,4 @@
-nomes.exe
+*.exe
 /.vscode
-saida.txt
+*.sql 
+*.txt
